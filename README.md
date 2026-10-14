@@ -1,10 +1,5 @@
 # 🏦 Loan Approval Analysis
 
-## Table of contents
-- [Executive Summary](Executive-Summary)
--  [Dashboard Overview](dashboard-Overview)
--   [Recommendations](recommendations)
-
 ## Executive Summary
 An end-to-end data analysis project identifying credit risk patterns, loan approval drivers, Exploring reasons for borrowing funds, Application approval criteria, financial resource distribution and default rates using Excel, SQL, and Power BI to optimize lending strategies.
 
