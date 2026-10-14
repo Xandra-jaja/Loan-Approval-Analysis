@@ -1,5 +1,10 @@
 # 🏦 Loan Approval Analysis
 
+## Table of contents
+- [Executive Summary](Executive-Summary)
+-  [Dashboard Overview](dashboard-Overview)
+-   [Recommendations](recommendations)
+
 ## Executive Summary
 An end-to-end data analysis project identifying credit risk patterns, loan approval drivers, Exploring reasons for borrowing funds, Application approval criteria, financial resource distribution and default rates using Excel, SQL, and Power BI to optimize lending strategies.
 
@@ -56,3 +61,9 @@ This involves finding insights on applicants characteristics, loan demands, and 
 * Synthetic_Loan_Approval.csv - Cleaned dataset used for analysis.
 * SQL Loan_Approval project.sql - SQL queries for analytical segmentation and business logic.
 * Overview Dashboad.png & Detail Dashboad.png - Visual outputs from Power BI reporting.
+
+😃
+💻
+
+
+
